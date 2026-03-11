@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> apunts-nou
 TEMA 3: PROCESSOS EN LINUX
 ==========================
 
@@ -18,4 +21,7 @@ ESTATS D'UN PROCÉS:
 - Sleeping: esperant
 - Stopped: aturat
 - Zombie: finalitzat però no netejat
+<<<<<<< HEAD
 
+=======
+>>>>>>> apunts-nou
